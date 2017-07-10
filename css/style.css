@@ -1,0 +1,35 @@
+.jumbotronprincipal{
+	background-color: #f1554a; /*#f44336 ed3237 616161 f44f43*/
+	color: #fff;
+	padding: 50px 16px;
+	margin-top: -22px;
+}
+
+.iconosprincipal{
+	text-align: center;
+	margin: 10px;
+	color: #616161;
+}
+
+.texticonprincipal{
+	text-align: justify;
+}
+
+.btningreso{
+	background-color: #f1554a;
+	color: #fff;
+}
+
+.btningreso:hover{
+	background-color: #c1443b;
+	color: #fff;
+}
+
+.copy{
+	background-color: #c1443b;
+}
+
+.textcopy{
+	color: #fff;
+	margin: auto;	
+}
