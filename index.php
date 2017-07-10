@@ -1,5 +1,5 @@
 <?php
-include_once("C:\wamp64\www\COHESIVO\utilidades\utilities.php");
+include_once("utilidades\utilities.php");
 ?>
 <!DOCTYPE html>
 <html lang="en">
